@@ -6,7 +6,7 @@ Assignment from getting and clearing data course
 Assuming that the "UCI HAR Dataset is in the working directory<br>
 (otherwise it can be downloaded from the link
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-the script run_analysis.R does the following:
+the script <i>run_analysis.R</i> does the following:
 
 In "<b>data</b>", read (in this order) for the test set and the training set, respectively:
 <ol><li>measurements table,

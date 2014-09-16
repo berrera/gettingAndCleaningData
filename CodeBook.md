@@ -25,7 +25,7 @@ These signals were used to estimate variables of the feature vector for each pat
 <li>fBodyGyroMag
 <li>fBodyGyroJerkMag</ul>
 
-30 different subjects were examined while performing the following activities:
+30 different <b>subjects</b>, numbered from 1 to 30, were examined while performing the following <b>activities</b>:
 <ol><li>WALKING
 <li>WALKING_UPSTAIRS
 <li>WALKING_DOWNSTAIRS
@@ -34,5 +34,5 @@ These signals were used to estimate variables of the feature vector for each pat
 <li>LAYING</ol>
 
 The set of variables that were estimated from these signals are <b>for each subject AND for each activiy the mean of</b>:
-<ul><li>mean(): <b>Mean value</b>
-<li>std(): <b>Standard deviation</b></ul>
+<ul><li>-mean(): <b>Mean value</b>
+<li>-std(): <b>Standard deviation</b></ul>

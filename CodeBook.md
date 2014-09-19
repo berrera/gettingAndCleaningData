@@ -25,6 +25,10 @@ These signals were used to estimate variables of the feature vector for each pat
 <li>fBodyGyroMag
 <li>fBodyGyroJerkMag</ul>
 
+Acceleration signals are in standard gravity units 'g' and angular velocities are in radiants/second.
+
+The body acceleration signal obtained by subtracting the gravity from the total acceleration.
+
 30 different <b>subjects</b>, numbered from 1 to 30, were examined while performing the following <b>activities</b>:
 <ol><li>WALKING
 <li>WALKING_UPSTAIRS
